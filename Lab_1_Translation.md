@@ -54,7 +54,7 @@ In this lab, you will learn how to perform the following tasks:
 
    Note: The VM can take about two minutes to launch and be fully available for use.
 
-## 3. Connect between VM instances.
+## 3. Connect between VM instances
 
 1. To view a list of all the virtual machines associated with a particular GCP Project run
     
